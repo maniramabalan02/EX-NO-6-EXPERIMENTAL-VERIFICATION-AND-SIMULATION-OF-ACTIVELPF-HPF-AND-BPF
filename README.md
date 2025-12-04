@@ -40,7 +40,7 @@ A LPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 
 ---
 ## CIRCUIT DIAGRAM
-![WhatsApp Image 2025-11-30 at 22 15 16_aba39318](https://github.com/user-attachments/assets/2cf7fa9c-fbbe-4cae-b343-6e7c83ced6c1)
+![WhatsApp Image 2025-12-04 at 3 08 43 PM](https://github.com/user-attachments/assets/ae324623-c3c2-4693-ac3d-c5cf6c4edd29)
 
 
 ## MODEL GRAPH
@@ -76,13 +76,13 @@ PROCEDURE - (LPF):
 
 ## TABULATION
 
-![WhatsApp Image 2025-11-30 at 22 16 05_b9c06bb4](https://github.com/user-attachments/assets/85b70588-eeda-4b89-9a52-830b4133bf56)
+![WhatsApp Image 2025-12-04 at 3 09 06 PM](https://github.com/user-attachments/assets/da9e887d-7a05-451b-a029-d4899d17b853)
 
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
-![WhatsApp Image 2025-11-30 at 22 16 54_e82d7316](https://github.com/user-attachments/assets/3628ddd6-867d-4dfb-a3ee-884e75cb6708)
+![WhatsApp Image 2025-12-04 at 3 13 43 PM](https://github.com/user-attachments/assets/44beb5ea-9b74-4a37-9a23-8b2da982e3d5)
 
 ---
 
@@ -110,7 +110,7 @@ A HPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 
 ## CIRCUIT DIAGRAM
 
-![WhatsApp Image 2025-11-30 at 22 17 45_68764c7b](https://github.com/user-attachments/assets/e728547b-74ea-46da-9655-b755abd6e42c)
+![WhatsApp Image 2025-12-04 at 3 14 13 PM](https://github.com/user-attachments/assets/cde29130-c29d-4f30-9109-be698d930afe)
 
 
 
@@ -148,13 +148,13 @@ PROCEDURE - ( HPF):
 
 ## TABULATION
 
-![WhatsApp Image 2025-11-30 at 22 18 26_8a49dbac](https://github.com/user-attachments/assets/cc6176e1-af1c-4d56-ae9a-329dddfb9364)
+![WhatsApp Image 2025-12-04 at 3 14 38 PM](https://github.com/user-attachments/assets/eb34163e-a9a8-469c-a8b3-987dfb2b8ef3)
 
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
-![WhatsApp Image 2025-11-30 at 22 19 33_2701ce31](https://github.com/user-attachments/assets/b89b8c01-2705-4a77-8cef-62bd64ce3a97)
+<img width="1161" height="705" alt="image" src="https://github.com/user-attachments/assets/52c31ba2-97b4-4709-8ba5-04bb4ab14f27" />
 
 ---
 
@@ -182,7 +182,7 @@ A BPF allows frequencies in between lower cut of frequency and higher cut of fre
 
 ## CIRCUIT DIAGRAM
 
-![WhatsApp Image 2025-11-30 at 22 20 12_bbe72c85](https://github.com/user-attachments/assets/8cfde851-e7a6-48c2-aced-33d803954f4d)
+<img width="1280" height="1060" alt="image" src="https://github.com/user-attachments/assets/b112ff7c-5770-4ab9-8325-7a44f0ec5ba8" />
 
 
 ## MODEL GRAPH
@@ -221,13 +221,13 @@ PROCEDURE:BAND PASS FILTER
 
 
 ## TABULATION
-![WhatsApp Image 2025-11-30 at 22 21 07_8d85a43b](https://github.com/user-attachments/assets/0bcff77a-a06c-4969-b713-ac2b022f66a9)
+<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/5f031575-92eb-41d6-9a12-df58dd28e13c" />
 
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
-![WhatsApp Image 2025-11-30 at 22 22 04_b2c1bfc8](https://github.com/user-attachments/assets/74737c51-2348-419d-a9b3-062803bfe2e2)
+<img width="1012" height="1280" alt="image" src="https://github.com/user-attachments/assets/ce762c44-f33a-43b8-abfe-510390f4c3d4" />
 
 ---
 ##RESULT:
