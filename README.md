@@ -156,7 +156,7 @@ PROCEDURE - ( HPF):
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
-<img width="1161" height="705" alt="image" src="https://github.com/user-attachments/assets/52c31ba2-97b4-4709-8ba5-04bb4ab14f27" />
+<img width="1280" height="1060" alt="image" src="https://github.com/user-attachments/assets/23983da1-95d8-483b-8706-26e9038aeedd" />
 
 ---
 
