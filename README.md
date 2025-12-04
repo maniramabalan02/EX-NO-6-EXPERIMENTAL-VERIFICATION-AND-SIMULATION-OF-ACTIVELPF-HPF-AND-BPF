@@ -40,7 +40,7 @@ A LPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 
 ---
 ## CIRCUIT DIAGRAM
-![WhatsApp Image 2025-12-04 at 3 08 43 PM](https://github.com/user-attachments/assets/ae324623-c3c2-4693-ac3d-c5cf6c4edd29)
+![WhatsApp Image 2025-12-04 at 3 08 43 PM](https://github.com/user-attachments/assets/ad572daa-bec7-479b-a845-51c689ded38b)
 
 
 ## MODEL GRAPH
@@ -76,13 +76,13 @@ PROCEDURE - (LPF):
 
 ## TABULATION
 
-![WhatsApp Image 2025-12-04 at 3 09 06 PM](https://github.com/user-attachments/assets/da9e887d-7a05-451b-a029-d4899d17b853)
+![WhatsApp Image 2025-12-04 at 3 09 06 PM](https://github.com/user-attachments/assets/4bb9767f-d49f-4be6-9cc4-dc018dc4a45a)
 
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
-![WhatsApp Image 2025-12-04 at 3 14 13 PM](https://github.com/user-attachments/assets/cde29130-c29d-4f30-9109-be698d930afe)
+<img width="1264" height="1080" alt="image" src="https://github.com/user-attachments/assets/880ce882-f2eb-45a0-95ac-dc1260b0f3e3" />
 
 
 ---
@@ -110,7 +110,7 @@ A HPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 
 
 ## CIRCUIT DIAGRAM
-![WhatsApp Image 2025-12-04 at 3 13 43 PM](https://github.com/user-attachments/assets/44beb5ea-9b74-4a37-9a23-8b2da982e3d5)
+<img width="1280" height="1029" alt="image" src="https://github.com/user-attachments/assets/0401ad79-e305-4929-ab72-4c9e634425bc" />
 
 
 
@@ -150,7 +150,7 @@ PROCEDURE - ( HPF):
 
 ## TABULATION
 
-![WhatsApp Image 2025-12-04 at 3 14 38 PM](https://github.com/user-attachments/assets/eb34163e-a9a8-469c-a8b3-987dfb2b8ef3)
+<img width="1080" height="1177" alt="image" src="https://github.com/user-attachments/assets/9a71a60a-6a16-4d0a-8259-37d665d83509" />
 
 
 ---
