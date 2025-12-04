@@ -184,7 +184,7 @@ A BPF allows frequencies in between lower cut of frequency and higher cut of fre
 
 ## CIRCUIT DIAGRAM
 
-<img width="1280" height="1060" alt="image" src="https://github.com/user-attachments/assets/b112ff7c-5770-4ab9-8325-7a44f0ec5ba8" />
+<img width="1161" height="705" alt="image" src="https://github.com/user-attachments/assets/7a3cc483-e9c8-4da3-8acb-a4f8ce6bed84" />
 
 
 ## MODEL GRAPH
