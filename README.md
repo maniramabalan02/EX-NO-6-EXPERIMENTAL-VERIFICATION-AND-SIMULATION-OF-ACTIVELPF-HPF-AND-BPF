@@ -82,7 +82,8 @@ PROCEDURE - (LPF):
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
-![WhatsApp Image 2025-12-04 at 3 13 43 PM](https://github.com/user-attachments/assets/44beb5ea-9b74-4a37-9a23-8b2da982e3d5)
+![WhatsApp Image 2025-12-04 at 3 14 13 PM](https://github.com/user-attachments/assets/cde29130-c29d-4f30-9109-be698d930afe)
+
 
 ---
 
@@ -109,8 +110,9 @@ A HPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 
 
 ## CIRCUIT DIAGRAM
+![WhatsApp Image 2025-12-04 at 3 13 43 PM](https://github.com/user-attachments/assets/44beb5ea-9b74-4a37-9a23-8b2da982e3d5)
 
-![WhatsApp Image 2025-12-04 at 3 14 13 PM](https://github.com/user-attachments/assets/cde29130-c29d-4f30-9109-be698d930afe)
+
 
 
 
